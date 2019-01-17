@@ -1,0 +1,19 @@
+{
+  "name": "maxbot",
+  "version": "1.0.0",
+  "description": "Maxium Robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalavantika/MyTestRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalavantika/MyTestRepo/issues"
+  },
+  "homepage": "https://github.com/kalavantika/MyTestRepo#readme"
+}
